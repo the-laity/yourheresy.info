@@ -1,6 +1,6 @@
 ---
 layout: h
-title: Monothelitism
+h: Monothelitism
 ---
 A _Monothelite_ believes &hellip;
 

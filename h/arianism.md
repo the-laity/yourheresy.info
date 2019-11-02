@@ -1,6 +1,6 @@
 ---
 layout: h
-title: Arianism
+h: Arianism
 ---
 An _Arian_ believes that &hellip;
 

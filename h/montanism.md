@@ -1,6 +1,6 @@
 ---
 layout: h
-title: Montanism
+h: Montanism
 ---
 A _Montanist_ believes &hellip;
 

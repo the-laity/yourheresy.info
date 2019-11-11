@@ -6,5 +6,6 @@ title: "&hellip;"
 A catalog of documented heresies over the ages.
 - [Arianisn](/h/arianism)
 - [Marcionism](/h/marcionism)
+- [Messalianism](/h/messalianism)
 - [Monothelitism](/h/monothelitism)
 - [Montanism](/h/montanism)

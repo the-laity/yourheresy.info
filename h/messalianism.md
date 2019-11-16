@@ -1,5 +1,4 @@
 ---
-layout: h
 h: Messalianism
 ---
 A _Messalian_ believes that only a very select few pious Saints will enter Heaven.

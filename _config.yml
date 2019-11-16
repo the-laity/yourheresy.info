@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: "h"
+      type: "pages"
+    values:
+        layout: "h"

@@ -1,5 +1,4 @@
 ---
-layout: h
 h: Monothelitism
 ---
 A _Monothelite_ believes &hellip;

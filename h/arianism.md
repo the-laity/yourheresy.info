@@ -1,5 +1,4 @@
 ---
-layout: h
 h: Arianism
 ---
 An _Arian_ believes that &hellip;

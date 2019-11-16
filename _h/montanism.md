@@ -1,5 +1,5 @@
 ---
-h: Montanism
+name: Montanism
 ---
 A _Montanist_ believes &hellip;
 

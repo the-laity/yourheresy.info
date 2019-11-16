@@ -1,5 +1,5 @@
 ---
-h: Arianism
+name: Arianism
 ---
 An _Arian_ believes that &hellip;
 

@@ -1,7 +1,11 @@
 defaults:
   -
     scope:
-      path: "h"
-      type: "pages"
+      path: "_h"
     values:
         layout: "h"
+collections:
+  h:
+    name: true
+    output: true
+    permalink: /:collection/:name
